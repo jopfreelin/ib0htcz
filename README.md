@@ -1,2 +1,0 @@
-# PictureBed
-PictureBed图床
